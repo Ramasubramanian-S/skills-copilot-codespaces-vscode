@@ -1,1 +1,2 @@
-//nothing
+function skillsMember()
+{}//nothing
